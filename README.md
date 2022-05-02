@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AropJoe&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AropJoe&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AropJoe&hide=html)
+![Arop's github stats](https://github-readme-stats.vercel.app/api?username=AropJoe&show_icons=true&count_private=true&line_height=40)
 
 
 <!--
